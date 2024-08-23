@@ -1,7 +1,12 @@
 # Diretorios customizados
 dados/
 ## Arquivos na pasta dados para serem mantidos no repo
-!dados/brutos/PIB-Bacen/STP-20240822151202826.csv
+dados/*
+!dados/brutos/
+dados/brutos/*
+!dados/brutos/PIB-Bacen/
+dados/brutos/PIB-Bacen/*
+!dados/brutos/PIB- Bacen /STP-20240822151202826.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
