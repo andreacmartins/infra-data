@@ -18,7 +18,9 @@ BASE_DIR = find_base_dir_with_pyproject()
 # DIRECTORIES
 
 DADOS_DIR = BASE_DIR / 'dados'
+
 DADOS_GIT_DIR = BASE_DIR / 'dados-git'
+DADOS_GIT_BACEN_DIR = DADOS_GIT_DIR / 'dados-bacen'
 
 DADOS_BRUTOS_DIR = DADOS_DIR / 'brutos'
 DADOS_VEQ_ANTT_DIR = DADOS_BRUTOS_DIR / 'trafego-ANTT'
