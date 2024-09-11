@@ -3,4 +3,7 @@ STP-20240822151202826.csv: PIB anual nominal. Fonte: Bacen, SGS, PIB em R$ do ú
 STP-20240827171150836.csv: pib mensal nominal. Fonte: Bacen. SGS, df_pib mensal - valores correntes, Cód 4380
 OBS: não é dado primário, mas o pib trimestral interpolado
 
+STP-20240910111755946.csv: IPCA. Fonte: Bacen. SGS, 433 - Índice nacional de preços ao consumidor-amplo (IPCA)
+
 PIB_trimestral_ipeadata.xlsx: http://www.ipeadata.gov.br/ExibeSerie.aspx?serid=38414
+
